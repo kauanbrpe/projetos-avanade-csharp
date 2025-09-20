@@ -1,0 +1,15 @@
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.exe
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.deps.json
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.runtimeconfig.json
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.dll
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\bin\Debug\net9.0\SistemaEstacionamento.pdb
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.sourcelink.json
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.dll
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\refint\SistemaEstacionamento.dll
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.pdb
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\DEV\C#\Desafios\Projetos\01 - Construindo um Sistema de Estacionamento\SistemaEstacionamento\obj\Debug\net9.0\ref\SistemaEstacionamento.dll
