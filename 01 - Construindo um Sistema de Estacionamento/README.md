@@ -1,6 +1,6 @@
 # Projeto de um Sistema de Estacionamento
 
-Na trilha de Estudo da Linguagem C# (C Sharp) da Digital Innovation One em parceria com Avanade, foi proposto, para o primeiro desafio de projeto, foi um Sistema de Estacionamento.
+Na trilha de Estudo da Linguagem C# (C Sharp) da Digital Innovation One em parceria com Avanade, foi proposto, para o primeiro desafio de projeto, um Sistema de Estacionamento.
 
 # 🌐 Linguagens utilizadas
 
