@@ -1,0 +1,15 @@
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.exe
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.deps.json
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.runtimeconfig.json
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.dll
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.pdb
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfo.cs
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.sourcelink.json
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.dll
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\refint\SistemaHospedagem.dll
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.pdb
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.genruntimeconfig.cache
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\SistemaHospedagem\obj\Debug\net9.0\ref\SistemaHospedagem.dll

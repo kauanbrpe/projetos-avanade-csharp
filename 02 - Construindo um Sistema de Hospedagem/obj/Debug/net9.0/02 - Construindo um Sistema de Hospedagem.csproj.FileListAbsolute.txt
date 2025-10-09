@@ -1,0 +1,5 @@
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\obj\Debug\net9.0\02 - Construindo um Sistema de Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\obj\Debug\net9.0\02 - Construindo um Sistema de Hospedagem.AssemblyInfoInputs.cache
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\obj\Debug\net9.0\02 - Construindo um Sistema de Hospedagem.AssemblyInfo.cs
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\obj\Debug\net9.0\02 - Construindo um Sistema de Hospedagem.csproj.CoreCompileInputs.cache
+C:\DEV\C#\Desafios\Projetos\02 - Construindo um Sistema de Hospedagem\obj\Debug\net9.0\02 - Construindo um Sistema de Hospedagem.sourcelink.json
