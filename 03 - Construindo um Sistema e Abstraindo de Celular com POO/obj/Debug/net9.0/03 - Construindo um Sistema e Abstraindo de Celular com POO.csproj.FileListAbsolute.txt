@@ -1,0 +1,15 @@
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\bin\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.exe
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\bin\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.deps.json
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\bin\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.runtimeconfig.json
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\bin\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.dll
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\bin\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.pdb
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.AssemblyInfoInputs.cache
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.AssemblyInfo.cs
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.csproj.CoreCompileInputs.cache
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.sourcelink.json
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.dll
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\refint\03 - Construindo um Sistema e Abstraindo de Celular com POO.dll
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.pdb
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\03 - Construindo um Sistema e Abstraindo de Celular com POO.genruntimeconfig.cache
+C:\DEV\C#\Desafios\Projetos\03 - Construindo um Sistema e Abstraindo de Celular com POO\obj\Debug\net9.0\ref\03 - Construindo um Sistema e Abstraindo de Celular com POO.dll
