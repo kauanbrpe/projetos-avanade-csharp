@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using MinimalApi.Dominio.Entidades.Administrador;
+using MinimalApi.Dominio.Entidades;
 
 namespace MinimalApi.Infraestrutura.Db
 {
@@ -17,6 +17,8 @@ namespace MinimalApi.Infraestrutura.Db
         }
 
         public DbSet<Administrador> Administradores { get; set; } = default!;
+
+        public DbSet<Veiculo> Veiculos { get; set; } = default!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
