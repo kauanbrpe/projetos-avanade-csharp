@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj": {}
+    "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj": {
+    "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj",
+        "projectUniqueName": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj",
         "projectName": "05 - Construindo um Sistema de Agendamento",
-        "projectPath": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj",
+        "projectPath": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj",
         "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\obj\\",
+        "outputPath": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\Sistema de Agendamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05 - Construindo um Sistema de Agendamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b4561d05e288a6ffe6d1ce4d37b851bffadba1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06092045e07d013c1fc24a423812590c7cf9b656")]
 [assembly: System.Reflection.AssemblyProductAttribute("05 - Construindo um Sistema de Agendamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05 - Construindo um Sistema de Agendamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lJfEyVecTsY=",
+  "dgSpecHash": "mrZcetSkfVA=",
   "success": true,
-  "projectFilePath": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj",
+  "projectFilePath": "C:\\DEV\\C#\\Desafios\\Projetos\\05 - Construindo um Sistema de Agendamento\\Sistema de Agendamento\\05 - Construindo um Sistema de Agendamento.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kauan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kauan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
