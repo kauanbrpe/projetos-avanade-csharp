@@ -1,0 +1,6 @@
+@_05___Construindo_um_Sistema_de_Agendamento_HostAddress = http://localhost:5294
+
+GET {{_05___Construindo_um_Sistema_de_Agendamento_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
