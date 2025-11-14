@@ -20,6 +20,7 @@ git clone https://github.com/kauanbrpe/projetos-avanade-csharp
 - Acesse a pasta do projeto
 ```bash
 cd 04 - Trabalhando com ASPI.NET
+cd minimal-api
 cd Api
 ```
 - Inicie o servidor de desenvolvimento
